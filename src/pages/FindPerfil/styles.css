@@ -1,0 +1,77 @@
+.find-perfil-container {
+  padding: 90px;
+  padding-top: 54px;
+}
+
+.card-search-container {
+  width: auto;
+  height: 270px;
+  background: #e6f7ff;
+  border-radius: 16px;
+  padding-left: 30px;
+  padding-top: 54px;
+}
+
+.card-search-container h1 {
+  font-weight: 500;
+  line-height: 46px;
+  font-size: 38px;
+  color: #262626;
+  margin-bottom: 12px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.form-container input {
+  color: #bfbfbf;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 298px;
+  height: 40px;
+  padding-left: 14px;
+}
+
+.search-button {
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  width: 101px;
+  height: 40px;
+  margin-top: 24px;
+}
+
+.card-result-container {
+  padding: 40px;
+  height: 334px;
+  background: #f5f5f5;
+  border-radius: 8px;
+  margin-top: 54px;
+}
+
+.avatar-container img {
+  width: 247px;
+  height: 247px;
+}
+
+.card-info-container {
+  height: 247px;
+  width: 800px;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+  background: #ffffff;
+  margin-left: 30px;
+  padding-left: 14px;
+  padding-top: 8px;
+}
+
+.card-info-container h2 {
+  color: #1890ff;
+  font-size: 20px;
+  line-height: 28px;
+  margin-bottom: 15px;
+}
